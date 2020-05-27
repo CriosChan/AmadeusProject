@@ -1,10 +1,14 @@
+# BEFORE YOU BEGIN
+This project is not the official one! The official project can be found at this link: https://github.com/Yink/Amadeus
+The project is no longer updated by the official developers, so I decided to make some updates, mainly for the French version!
+
 # Amadeus
-A side project that aims to replicate the Amadeus App shown in Steins;Gate 0 for Android.
+A project that aims to replicate the Amadeus application presented in Steins;Gate 0 for Android.
 
-I'm creating this mainly for cosplay purposes, thus the design takes priority over actual functionality.
-Hit me up on the <a href="https://discord.gg/fTtJ2Ws">Steins;Gate Discord</a>.
+I create this application mainly for cosplay purposes, so the design is given priority over the actual functionality.
+Go to the Discord of the original creator <a href="https://discord.gg/fTtJ2Ws">Steins;Gate Discord</a>.
 
-To start speech recognition simply touch her once. If you long-click her, she will go on a loop and say random sentences in random intervals. Long-Click again to stop.
+To launch the speech recognition, just touch it once. If you click on it for a long time, it will loop and say random sentences at random intervals. Make another long click to stop it.
 
 # HOW TO INSTALL
 <ol>
@@ -50,6 +54,7 @@ Here is a short list of available options:
 
 # Credits
 <ul>
+  <li><a href="https://github.com/Yink">Yink</a> for for the official version of the project</li>
   <li><a href="https://github.com/RIP95">Emojikage</a> for various improvements and advice, Russian translation</li>
   <li><a href="https://github.com/8BitAsian/">8-Bit☆Asian</a> for Zero and S;G Voice Lines and the Website</li>
   <li><a href="https://twitter.com/SG_EPK_X29">EPK</a> for Phenogram Voice Lines</li>
