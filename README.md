@@ -12,12 +12,11 @@ To launch the speech recognition, just touch it once. If you click on it for a l
 
 # HOW TO INSTALL
 <ol>
-  <li>Download the <b>amadeus.apk</b> from <a href="https://github.com/Yink/Amadeus/releases">here</a> to your phone (you only need this file).</li>
+  <li>Download the <b>amadeus.apk</b> from <a href="https://github.com/CriosChan/AmadeusProject/releases">here</a> to your phone (you only need this file).</li>
 <li>Make sure to have <b>installation from unknown sources</b> activated in your phone's security settings (<a href="https://www.wikihow.tech/Install-APK-Files-on-Android">How-to<a>)</li>
 <li>Click on <b>amadeus.apk</b> on your phone to install it</li>
 <li>Choose your preferred settings by clicking on the "Amadeus" logo</li>
 </ol>
-
 
 # Screenshots
 <ul>
